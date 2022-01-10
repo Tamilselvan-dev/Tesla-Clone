@@ -126,17 +126,4 @@ const CompinedSection = styled.div`
 display: flex;
 align-items: center;
 justify-content: center;
-flex-direction: column;
-`
-
-const Fcontainer = styled.div`
-position:fixed;
-width: 100%;
-height: 10vh;
-bottom: 0;
-display: flex;
-justify-content;
-align-items: center;
-li {
-    padding: 15px;
-}`
+flex-direction: column;`
